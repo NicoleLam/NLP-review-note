@@ -1,1 +1,1 @@
-# This repository is a review of NLP conepts using NLTK
+# This repository is a review of NLP concepts using NLTK
