@@ -1,1 +1,1 @@
-# This is a new one to practice
+# This repository is a review of NLP conepts using NLTK
